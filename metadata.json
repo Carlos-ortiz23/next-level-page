@@ -1,0 +1,6 @@
+{
+  "name": "Next Level",
+  "description": "Catálogo digital premium de moda urbana con integración de WhatsApp y carga dinámica de productos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
