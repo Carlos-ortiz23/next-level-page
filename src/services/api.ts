@@ -283,7 +283,7 @@ export const CatalogService = {
    * Generates WhatsApp checkout link.
    */
   getWhatsAppLink(product: Product, selectedSize?: string): string {
-    const phoneNumber = '573046412905'; // Format without '+' for WhatsApp API
+    const phoneNumber = '573008000029'; // Format without '+' for WhatsApp API
     const priceFormatted = new Intl.NumberFormat('es-CO', {
       style: 'currency',
       currency: 'COP',

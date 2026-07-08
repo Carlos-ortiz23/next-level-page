@@ -62,7 +62,7 @@ export default function Footer() {
               Soporte & Contacto
             </h4>
             <ul className="space-y-2.5 text-xs text-neutral-400 font-sans font-medium">
-              <li><span className="text-white block font-black uppercase tracking-widest text-[9px] mb-0.5">Línea de Ventas:</span> +57 304 641 2905</li>
+              <li><span className="text-white block font-black uppercase tracking-widest text-[9px] mb-0.5">Línea de Ventas:</span> +57 300 800 0029</li>
               <li><span className="text-white block font-black uppercase tracking-widest text-[9px] mb-0.5">Ubicación principal:</span> Colombia</li>
               <li><a href="#" className="hover:text-white transition-colors">Preguntas Frecuentes</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Políticas de Devolución</a></li>
